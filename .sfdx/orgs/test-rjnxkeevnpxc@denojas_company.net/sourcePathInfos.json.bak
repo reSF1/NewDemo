@@ -1,0 +1,182 @@
+[
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511089423000,
+            "changeTime": 1511089423000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511089423000,
+            "changeTime": 1511089423000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511089423000,
+            "changeTime": 1511089423000,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1511089941000,
+            "changeTime": 1511089941000,
+            "contentHash": "23b688d2faae1d462933a0a2634bc14a86a1c319",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1511089941000,
+            "changeTime": 1511089941000,
+            "contentHash": "bf753344f47f31a0a431c24ad6d75043b0817ad9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemo.cmp",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemo.cmp",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1511090493000,
+            "changeTime": 1511090493000,
+            "contentHash": "ec06d5f56bf3f04e10ce75f3d145c8f7361cec21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1511089941000,
+            "changeTime": 1511089941000,
+            "contentHash": "e337429e292b9c1460a52d1c3f090bb27a73194c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemo.css",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1511089941000,
+            "changeTime": 1511089941000,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemoController.js",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1511089941000,
+            "changeTime": 1511089941000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemoHelper.js",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1511089941000,
+            "changeTime": 1511089941000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemoRenderer.js",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo/force-app/main/default/aura/NewDemo/NewDemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1511089941000,
+            "changeTime": 1511089941000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/denojas/Documents/SFDX/NewDemo",
+        {
+            "sourcePath": "/Users/denojas/Documents/SFDX/NewDemo",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1511089453000,
+            "changeTime": 1511089453000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
